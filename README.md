@@ -1,1 +1,1 @@
-# DS10-Case-Studies
+# DS10 Case Studies
